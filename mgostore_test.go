@@ -8,8 +8,8 @@ package mongostore
 
 import (
 	"encoding/gob"
+	"github.com/globalsign/mgo"
 	"github.com/gorilla/sessions"
-	"gopkg.in/mgo.v2"
 	"net/http"
 	"net/http/httptest"
 	"testing"

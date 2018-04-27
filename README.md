@@ -5,7 +5,7 @@ mongostore
 
 ## Requirements
 
-Depends on the [mgo](https://labix.org/v2/mgo) library.
+Depends on the [mgo](https://godoc.org/github.com/globalsign/mgo) library.
 
 ## Installation
 
